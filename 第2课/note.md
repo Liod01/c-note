@@ -63,6 +63,31 @@ int __adsasd__;
 int honey-hook;
 ```
 
+“符 号 常 量
+
+表 示
+
+CHAR_BIT
+
+char的位数
+
+CHAR_MAX
+
+char的最大值
+
+CHAR_MIN
+
+char的最小值
+
+SCHAR_MAX
+
+signed char的最大值
+
+SCHAR_MIN
+
+signed char的最小值”
+
+
 
 
 
